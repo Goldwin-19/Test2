@@ -1,2 +1,2 @@
-# Test2
+# Jonathan Caroll University
 My Second Project using JavaScript basics.
